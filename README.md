@@ -2,7 +2,7 @@
 
 ## Requirements
 
-To run the Jupyter Notebook in this repository, you will need:
+To run the Jupyter Notebook you will need:
 
 1. **Python**: Ensure you have Python installed on your system. If not, download and install it from [python.org](https://www.python.org/).
 
